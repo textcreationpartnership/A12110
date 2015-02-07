@@ -2102,24 +2102,26 @@ Dominicals sygned in one of the forsayde fygures, and chaungeth the late day of 
                   </table>
                </p>
                <p>It is to be noted that the golden numbres sheweth the dayes, houres, and minutes of the newe Moones. The red nombres for the fore noone, and the blacke for the after noone on the same dayes that the nombres demonsireth.</p>
-               <figure>
-                  <head>ii</head>
-               </figure>
-               <figure>
-                  <head>iii</head>
-               </figure>
-               <figure>
-                  <head>xiiii</head>
-               </figure>
-               <figure>
-                  <head>xii</head>
-               </figure>
-               <figure>
-                  <head>xxii</head>
-               </figure>
-               <figure>
-                  <head>xxiiii</head>
-               </figure>
+               <p>
+                  <figure>
+                     <head>ii</head>
+                  </figure>
+                  <figure>
+                     <head>iii</head>
+                  </figure>
+                  <figure>
+                     <head>xiiii</head>
+                  </figure>
+                  <figure>
+                     <head>xii</head>
+                  </figure>
+                  <figure>
+                     <head>xxii</head>
+                  </figure>
+                  <figure>
+                     <head>xxiiii</head>
+                  </figure>
+               </p>
             </div>
             <div n="March" type="month">
                <pb facs="tcp:8212:14"/>
@@ -8800,7 +8802,10 @@ Dominicals sygned in one of the forsayde fygures, and chaungeth the late day of 
          </div>
          <div n="7" type="chapter">
             <head>Here after foloweth the seconde part of the compost and kalender, which sheweth of the trees of vyces, &amp; of the paynes of hell. Cap. vii.</head>
-            <figure/>
+            <p>
+               <pb facs="tcp:8212:25"/>
+               <figure/>
+            </p>
             <p>
                <seg rend="decorInit">I</seg>N the name of the father, the sonne, and the holy Ghost. Amen. We purpose to shew the trees of vyces, for synners to take example by, for to vnderstande their sinnes. The which is deuided in .yii. pryn<g ref="char:EOLhyphen"/>cipall partes after the .vii. deadly synnes, and eche deadly synne is lykened to a tree, and euery tree hauing .vii. small braunches, and all these .vii trees commeth out of one tree by it selfe that is euyll, and commeth of one be<g ref="char:EOLhyphen"/>ginning, and that is the deuill, and it bydeth an end, that is euerlasting dam<g ref="char:EOLhyphen"/>nation, which is ordeyned for all them that seeke not remedy betymes by pe<g ref="char:EOLhyphen"/>naunce and repentaunce of theyr lyfe in tyme.</p>
             <p>And after these trees of vyces foloweth the paynes of hell, to shew the lay people what punyshmente is ordeyned for euery deadely synne, and that the people may the better shew theyr synnes in confession, and make cleane theyr conscyence, &amp; that they may be the house of God, so that vertues may growe and fructifie to the profyte of theyr soules. The fyrst great braunch of the tree of vyces is Pryde, and he hath .xvii braunches growing out of hym. As of vayne glory of him selfe. Uayne glory of the worlde. Praysing hym selfe in euyll. Bostinge of synne. Inobedyence. Disdayne. To tempte God. Excesse. Dispraysinge. False goodnesse. Hardynesse. Presumption. Rebellion. Obsti<g ref="char:EOLhyphen"/>nacion. Sinne wittingly. Communynge of the Sacrament. Shame to doe good. Out of euery of the whych braunches spryngeth three braunches, and out of euery of the sayde three braunches groweth three small braunches, to the number of seuen score and thyrtene, and in so many maners and wayes ye may synne in the synne of Pryde, the whych is the roote and beginning of all the seuen deadly synnes. And therefore it shall be shewed fyrste of Pryde, and after the other syxe synnes as they folowe in order.</p>
@@ -11549,10 +11554,15 @@ haue seene in the infernall par<g ref="char:EOLhyphen"/>tyes a great number of w
                <figure>
                   <head>Lazarus.</head>
                </figure>
-               <figure>
-                  <head>Gluttony.</head>
-               </figure>
-               <figure/>
+               <p>The vi. peyne sayde Lazarus
+<figure>
+                     <head>Gluttony.</head>
+                  </figure>
+that I haue sene in a vale a flod<g ref="char:EOLhyphen"/>de soule and flynkynge at thee brymme, in the which was a ta<g ref="char:EOLhyphen"/>ble with towels right dyshonest<g ref="char:EOLunhyphen"/>ly, where as Gluttons byn fed<g ref="char:EOLhyphen"/>de with Todes and other vene<g ref="char:EOLhyphen"/>mous beastes, and had to drinke of the water of the same sayde fludde.</p>
+               <p>
+                  <pb facs="tcp:8212:42"/>
+                  <figure/>
+               </p>
                <p>
                   <seg rend="decorInit">T</seg>He throte is the gate of the body of ma<g ref="char:cmbAbbrStroke">̄</g>, so when enemies wil take the castel, yf they maye wynne the gate, they wil lightly haue all the Castell. So when the deuyll maye wyn the throte of a man by Glottony, easely he wyl haue the remenant and entre into the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -11588,7 +11598,10 @@ the which often a brydgeth and shorteth the lyues. And they that noryshethe well
          </div>
          <div n="9" type="chapter">
             <head>Here after foloweth the thirde parte of the Kalender and composte of Shephardes. Salutarye scyence, and gardyn of vertues. Capitulo ix.</head>
-            <figure/>
+            <p>
+               <pb facs="tcp:8212:44"/>
+               <figure/>
+            </p>
             <p>
                <seg rend="decorInit">V</seg>Uho that wyll haue on a peece of earthe greate habundaunce <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -11673,7 +11686,10 @@ lorde Iesu Christ made it there to the entent that we shulde <gap reason="illegi
          </div>
          <div n="10" type="chapter">
             <head>Thyrdly in the boke of Iesus is salutary scyence, and is the Credo whych we ought to beleue on peyne of dampnation. Capitulo x.</head>
-            <figure/>
+            <p>
+               <pb facs="tcp:8212:47"/>
+               <figure/>
+            </p>
             <p>I beleue in God the father almyghty, maker of heuen &amp; earth, and in Iesu Christ his onely sonne our Lorde whiche was conceaued of the Holy ghoste, and suffe<g ref="char:EOLunhyphen"/>red passion vnder Ponce Pilate, crucified, buried, went into hel, the iii. daye rose from death. Ascended into heuen &amp; sitteth on the right hand of the father.</p>
             <figure/>
             <p>And after shall come to iudge the quick and the deade. I beleue in the holy ghost, the Holye Catholyke churche, the commu<g ref="char:EOLhyphen"/>nion of sainctes, and remission of sinnes. The rysynge of the flesh. The euerlasting life, Amen.</p>
@@ -11761,19 +11777,21 @@ loue &amp; worshyp perfytely.</p>
             <div type="part">
                <pb facs="tcp:8212:48"/>
                <head>The v. Commaundementes of the Churche.</head>
-               <figure>
-                  <head>i</head>
-               </figure>
-               <figure>
-                  <head>ii</head>
-               </figure>
-               <figure>
-                  <head>x<gap reason="illegible" resp="#PDCC" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>
-                  </head>
-               </figure>
-               <figure/>
+               <p>
+                  <figure>
+                     <head>i</head>
+                  </figure>
+                  <figure>
+                     <head>ii</head>
+                  </figure>
+                  <figure>
+                     <head>x<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </head>
+                  </figure>
+                  <figure/>
+               </p>
                <p>
                   <seg rend="decorInit">F</seg>Ifthly in the booke of Ie<g ref="char:EOLhyphen"/>sus bin the v. commaunde<g ref="char:EOLhyphen"/>mentes of Holye Churche, whiche ought to be kepte all them that hath vsage of reason, after as they be of power.</p>
                <p>And it is sayde after that they be of power, for that yf the man or woma<g ref="char:cmbAbbrStroke">̄</g> that maye not confesse them, or re<g ref="char:EOLhyphen"/>ceaue at easter, or kepe the holy day commaunded.</p>
@@ -12557,7 +12575,10 @@ noysyble transgression of lawe or customes prouu<gap reason="illegible" resp="#P
          </div>
          <div n="22" type="chapter">
             <head>Howe Shepardes by calculation and speculation knowe the .xii. signes in their course reygning and domining on the .xii. partes of mans body, and which be good for letting of blud, and which be indifferent or euill for the same. Capitulo .xxii.</head>
-            <figure/>
+            <p>
+               <pb facs="tcp:8212:61"/>
+               <figure/>
+            </p>
             <p>
                <seg rend="decorInit">S</seg>Ome Shipardes say that a man is a little worlde by hym selfe, for the lykenesses and similytudes that he hath of the great worlde, whych is the aggregation of the nyne skyes, foure elements<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -13250,7 +13271,10 @@ and Shepardes se them sensyble for when they se the mone before a sterre one nig
          </div>
          <div n="33" type="chapter">
             <head>Here foloweth the story of the twelue sygnes. Ca. xxxiii.</head>
-            <figure/>
+            <p>
+               <pb facs="tcp:8212:73"/>
+               <figure/>
+            </p>
             <p>SHepardes knowele<g ref="char:EOLhyphen"/>geth a subtyll varia<g ref="char:EOLhyphen"/>tion in the skye: and is for three sterres fy<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>d be not vnder the same de<g ref="char:EOLhyphen"/>grees of the Zodyake that they were created bi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -13550,7 +13574,10 @@ And the twelfth that fynisheth in orient on the earthe is named the house of cha
          </div>
          <div n="40" type="chapter">
             <head>How the planets raigne in euery houre. Ca. xl.</head>
-            <figure/>
+            <p>
+               <pb facs="tcp:8212:80"/>
+               <figure/>
+            </p>
             <p>HE that wyll wete howe Shepardes know whiche planete raygneth e<g ref="char:EOLhyphen"/>uery houre of the day and the night And which planet is good, &amp; which is bad, ought to know the planette of the day &amp; seke therfore. The firste temporal houre of the sonne rysynge that day is for the sayde planet. The se<g ref="char:EOLhyphen"/>conde houre is for the planet ensuynhe, &amp; the thyrde for the other as they byn here fygured by ordre, and it behoueth to go from Sol to Uenus, Mercury &amp; Luna them come ageyne to Saturne vnto xii. that is the houre before the son goynge downe, and incontinent after the son is downe begynneth the fyrste houre of the nyght that is for the .xiii. planet, &amp; the seconde houre of the nyght for the xiiii. &amp; so vnto xii. houres for the nyghte, that is the nexte houre before the sonne rysynge and come directly fallyng vpon the xxiiii. planet, that is next before that of the day folowynge. And thus the day hath xii. houres, and the nyght xii. also the whych be temporal houres, different to the houres of the clockes, the which be artificials. Shepardes sayd that Saturne and Mars be euyll planettes. Iupiter and Uenus good, Sol and Luna halfe good and halfe euyll. The parey toward a good planet is good and the party towarde the euyl planet is nought. Mercury conioyned with a good planette is good, and with an euyll planet he is nought and they vnderstande this as to <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>he in<g ref="char:EOLhyphen"/>flicences good or euyll that bin of the sayde planetes there folowynge.</p>
@@ -13835,7 +13862,10 @@ the .xii. signes in .CCCxxxviii. dayes. Hereafter is shewed the disposition of t
          </div>
          <div n="41" type="chapter">
             <head>Of the foure complexions. Cap. xli.</head>
-            <figure/>
+            <p>
+               <pb facs="tcp:8212:86"/>
+               <figure/>
+            </p>
             <p>
                <seg rend="decorInit">T</seg>He Colerike hath nature of fyre hot and dry, naturally is lene and sclender, couetouse, yrefull, hasty, brainlesse, folish, malicious, deceit<g ref="char:EOLhyphen"/>ful, and subtil where he applyeth his wit. He hath wine of the Li<g ref="char:EOLhyphen"/>on, that is to saye, when he is dronken he chydeth, feighteth, and commonly he loueth to be cladde in blacke, russet and gray.</p>
             <p>The Sanguine hath nature of ayre, hote and moyst, he is large, plenteous, attempred, amiable, habundant in nature, mery, singing, laughing, lyking, rud<g ref="char:EOLhyphen"/>dy, and gracious. He hath his wine of the ape, the more he drinketh the merier he is, and draweth to women, and naturally loueth hye coloured cloth.</p>
@@ -14634,7 +14664,10 @@ the stomake, he shalbe mery and loue the company of mery solke. In his right shu
             </div>
             <div n="Pisces" type="sign_of_the_zodiac">
                <head>¶Of the signe of Pisces,</head>
-               <figure/>
+               <p>
+                  <pb facs="tcp:8212:99" rendition="simple:additions"/>
+                  <figure/>
+               </p>
                <p>
                   <seg rend="decorInit">H</seg>E that is borne vnder the sygne of Pisces, from myd February to myd Marche shalbe a greate goer, a fornicatour, a mocker, and shalbe couetous, he will say one &amp; do an other, he shall fynde money, he wil truste in his sapience and shall haue good fortune, he shall be a defender of Orphelyus and wydowes, he shall be fearefull on water, he shall passe soone al his ad<g ref="char:EOLunhyphen"/>uersyties, and shall lyue .lxxiii. yeare and v. monthes after nature.</p>
                <p>¶The woman that is borne in thys time shalbe delicious, familier in io<gap reason="illegible" resp="#PDCC" extent="1 letter">
